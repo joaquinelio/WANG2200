@@ -1,7 +1,9 @@
 # WANG2200
-WANG 2200 
+Just for fun.
 
-MOUNT SYSTEM PLATTER 
+WANG 2200  www.wang2200.org 
+
+MOUNT SYSTEM PLATTER
 PRESS RESET
 
 Ready Basic2 (Partition 01)
